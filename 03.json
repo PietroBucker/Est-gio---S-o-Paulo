@@ -1,0 +1,57 @@
+{
+    "FaturamentoDiario": [
+        {
+            "data": "2021-03-02",
+            "faturamento": 1200
+        },
+        {
+            "data": "2021-03-03",
+            "faturamento": 800
+        },
+        {
+            "data": "2021-03-04",
+            "faturamento": 1500
+        },
+        {
+            "data": "2021-03-05",
+            "faturamento": 900
+        },
+        {
+            "data": "2021-03-06",
+            "faturamento": 1100
+        },
+        {
+            "data": "2021-03-07",
+            "faturamento": 1300
+        },
+        {
+            "data": "2021-03-08",
+            "faturamento": 950
+        },
+        {
+            "data": "2021-03-09",
+            "faturamento": 1400
+        },
+        {
+            "data": "2021-03-10",
+            "faturamento": 1050
+        },
+        {
+            "data": "2021-03-11",
+            "faturamento": 1150
+        },
+        {
+            "data": "2021-03-12",
+            "faturamento": 0
+        },
+        {
+            "data": "2021-03-13",
+            "faturamento": 1150
+        },
+        {
+            "data": "2021-03-14",
+            "faturamento": 0
+        }
+
+    ]
+}
